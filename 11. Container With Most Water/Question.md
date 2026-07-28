@@ -1,9 +1,5 @@
 11. Container With Most Water
-Solved
-Medium
-Topics
-premium lock icon
-Companies
+
 Hint
 You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
 
@@ -32,3 +28,4 @@ Constraints:
 n == height.length
 2 <= n <= 105
 0 <= height[i] <= 104
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/0aa53a79-26e4-4521-9e93-f2998ffd2069" />
